@@ -6,9 +6,13 @@ A theoretical plan to convert a lightning bolt into household electricity.
 Most of my facts are listed on this page and inital calculations. *Typo: Late-2021 average power cost*
 
 Sources:
+
 "How Powerful Is Lightning?" https://www.weather.gov/safety/lightning-power
+
 "Use of energy explained: Energy use in homes" https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php
+
 "During 2021, U.S. retail electricity prices rose at fastest rate since 2008" https://www.eia.gov/todayinenergy/detail.php?id=51438
+
 "19.6: Capacitors in Series and Parallel" https://phys.libretexts.org/Bookshelves/College_Physics/Book%3A_College_Physics_1e_(OpenStax)/19%3A_Electric_Potential_and_Electric_Field/19.06%3A_Capacitors_in_Series_and_Parallel
 
 # Page 2
@@ -23,6 +27,7 @@ Sources:
 Plan A: Details & economic evaluation
 
 Featured part:
+
 "Planet Audio PCBLK3.5 – 3.5 Farad Car Capacitor for Energy Storage to Enhance Bass Demand from Audio System" https://www.amazon.com/Planet-Audio-PCBLK3-5-Capacitor-Storage/dp/B00BSVXQZQ/ref=pd_ybh_a_sccl_1/134-6342730-3614831
 
 # Page 4
