@@ -22,6 +22,9 @@ Sources:
 ![2023_07_08 7_36 PM Office Lens (3)](https://github.com/mus1c-123/The-Face-Of-God/assets/22779862/5bc0c9b9-c984-45ad-8c4a-d83ba1fbc5f0)
 Plan A: Details & economic evaluation
 
+Featured part:
+"Planet Audio PCBLK3.5 – 3.5 Farad Car Capacitor for Energy Storage to Enhance Bass Demand from Audio System" https://www.amazon.com/Planet-Audio-PCBLK3-5-Capacitor-Storage/dp/B00BSVXQZQ/ref=pd_ybh_a_sccl_1/134-6342730-3614831
+
 # Page 4
 ![2023_07_08 7_36 PM Office Lens (4)](https://github.com/mus1c-123/The-Face-Of-God/assets/22779862/09dc07ae-a97c-4654-9c78-06142dec3a9c)
 Scratch paper
